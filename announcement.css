@@ -1,0 +1,37 @@
+body {
+    font-size: 1.25em;
+    font-family: 'Dosis', Arial,Helvetica,sans-serif;
+    color: #444;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+    letter-spacing: 0.04em;
+    margin: 0;
+    font-weight: normal;
+    color: #ff5252;
+  }
+  
+  .announcement {
+    margin-top: 20px;
+    padding: 10px 15px 0px;
+    border: 1px solid #e1e1e1;
+    background-color: #f9f9f9;
+    border-radius: 4px;
+    width:60%;
+    float: left;
+    height: 300px;
+    margin-bottom: 30px;
+  }
+
+  .leave{
+      margin-top: 20px;
+    padding: 10px 15px 0px;
+    border: 1px solid #e1e1e1;
+    background-color: #f9f9f9;
+    border-radius: 4px;
+    width: 35%;
+    float: right;
+    height: 300px;
+    margin-bottom: 30px;
+  }

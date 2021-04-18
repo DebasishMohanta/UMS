@@ -1,0 +1,107 @@
+body{
+    background-color: #EAF2F1;
+    background-image: url("./images/background.jpg");
+    background-size: cover;
+}
+header{
+    color:#fff;
+    font-size: 2.5em;
+    text-align: center;
+}
+header h2{
+    margin-bottom: 0px;
+    margin-top: 10px;
+    color:white;
+}
+header h3{
+    margin-top: 10px;
+}
+
+header span{
+    color:#722;
+}
+div{
+    width: 50%;
+    margin: auto;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    padding:20px;
+    box-shadow: 0px 0px 10px lightgray;
+}
+div input{
+    border:1px solid lightgrey;
+    padding: 10px;
+    margin-left:auto;
+    margin-right: auto;
+    margin-bottom: 16px;
+    font-size: large;
+    color:black;
+    font-family: sans-serif;
+    width:320px;
+    height:35px;
+    border-radius: 5px;
+    padding-left: 15px;
+    box-shadow: 0px 0px 1px lightgray;
+}
+div input:hover{
+    border: 2px solid #1877F2;
+}
+#login{
+    background-color: #1877F2;
+    width: 347px;
+    height:60px;
+    border-radius: 5px;
+    font-size: x-large;
+    color:white;
+    border: 1px white solid;
+    margin-left: auto;
+    margin-right: auto;
+}
+#forget{
+    text-align: center;
+    border:none;
+    padding-bottom: 25px;
+    border-bottom: 1px solid lightgrey;
+    font-size: 20px;
+}
+#forget a{
+    color:#1877F2;
+    text-decoration: none;
+}
+#forget a:hover{
+    text-decoration: underline;
+}
+div section{
+    float: right;
+    font-size: xx-large;
+    text-align: center;
+    color: #007e99;
+}
+#text1{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+#text1 span{
+    color: #722;
+}
+
+#account{
+    background-color: #42B72A;
+    width: 225px;
+    height: 60px;
+    border-radius: 5px;
+    font-size:large ;
+    color:white ;
+    border: 1px white solid;
+    font-weight: bolder;
+    margin-top: -12px;
+}
+form{
+    text-align: center;
+}
+footer{
+    color: #fff;
+    margin-top: 30px;
+    margin-left:620px;
+    font-size: large;
+}
